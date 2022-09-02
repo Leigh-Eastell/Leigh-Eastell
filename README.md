@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leigh-Eastell
 - 👀 I’m interested in all things tech, love gaming, computers, and now coding!
-- 🌱 I’m currently learning with the School of Code, and really excited to get started.
+- 🌱 I’ve just graduated from the School of Code, and really excited to get started.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leigheastell1286@gmail.com
 
